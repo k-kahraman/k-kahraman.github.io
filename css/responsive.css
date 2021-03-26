@@ -50,6 +50,18 @@
 	.footer-distributed .footer-left{
 		text-align: center;
 	}
+	.fa {
+		padding: 0 20px 0 20px;
+		font-size: 2rem;
+		text-align: center;
+		text-decoration: none;
+	}
+	#social-btn {
+		padding: 0 3rem 0 3rem;
+		font-size: 3rem;
+		text-align: center;
+		text-decoration: none;
+	}
 }
 @media (max-width: 767px) {
 	#mainNav {
@@ -97,6 +109,18 @@
 	}
 	.footer-distributed .footer-left{
 		text-align: center;
+	}
+	.fa {
+		padding: 0 20px 0 20px;
+		font-size: 2rem;
+		text-align: center;
+		text-decoration: none;
+	}
+	#social-btn {
+		padding: 0 3rem 0 3rem;
+		font-size: 3rem;
+		text-align: center;
+		text-decoration: none;
 	}
 }
 @media only screen and (min-width: 280px) and (max-width: 599px) {
@@ -146,5 +170,16 @@
 	.footer-distributed .footer-left{
 		text-align: center;
 	}
-	
+	.fa {
+		padding: 0 20px 0 20px;
+		font-size: 2rem;
+		text-align: center;
+		text-decoration: none;
+	}
+	#social-btn {
+		padding: 0 3rem 0 3rem;
+		font-size: 3rem;
+		text-align: center;
+		text-decoration: none;
+	}
 }

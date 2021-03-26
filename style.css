@@ -1704,13 +1704,20 @@ hr.invis1 {
     CONTACT
 -------------------------------------------------------------------*/
 
+
 .fa {
-    padding: 0 50px 0 50px;
-    font-size: 50px;
+    padding: 0 30px 0 30px;
+    font-size: 3rem;
     text-align: center;
     text-decoration: none;
 }
 
+#social-btn {
+    padding: 0 4rem 0 4rem;
+    font-size: 4rem;
+    text-align: center;
+    text-decoration: none;
+}
 
 .fa:hover {
     color: rgb(105, 105, 105);
