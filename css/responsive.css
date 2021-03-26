@@ -51,6 +51,7 @@
 		text-align: center;
 	}
 	.fa {
+		color: whitesmoke;
 		padding: 0 20px 0 20px;
 		font-size: 2rem;
 		text-align: center;
@@ -111,6 +112,7 @@
 		text-align: center;
 	}
 	.fa {
+		color: whitesmoke;
 		padding: 0 20px 0 20px;
 		font-size: 2rem;
 		text-align: center;
@@ -171,8 +173,9 @@
 		text-align: center;
 	}
 	.fa {
-		padding: 0 20px 0 20px;
-		font-size: 2rem;
+		color: whitesmoke;
+		padding: 0 15px 0 15px;
+		font-size: 1.5rem;
 		text-align: center;
 		text-decoration: none;
 	}
