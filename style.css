@@ -547,7 +547,7 @@ xclip
 }
 
 .section-title p {
-    color: whi;
+    color: white;
     font-weight: 400;
     font-size: 18px;
     line-height: 33px;
@@ -1203,6 +1203,7 @@ xclip
 }
 
 .message-box p {
+    text-align: justify;
     margin-bottom: 20px;
 }
 
