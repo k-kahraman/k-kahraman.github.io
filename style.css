@@ -1713,7 +1713,7 @@ hr.invis1 {
 
 
 .fa:hover {
-    color: rgb(63, 63, 63);
+    color: rgb(105, 105, 105);
 }
 
 .bootstrap-select {
@@ -2341,7 +2341,7 @@ select.mobile-device {
 }
 
 .dmtop {
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0);
     z-index: 100;
     width: 50px;
     height: 50px;
